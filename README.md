@@ -1,5 +1,5 @@
-Your Name: Rinju Thankamma Mathew
+1. Your Name: Rinju Thankamma Mathew
 
-Project title: Lab 3
+2. Project title: Lab 3
 
-student id: 8999698
+3. student Id: 8999698
